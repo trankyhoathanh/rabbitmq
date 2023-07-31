@@ -16,4 +16,4 @@ docker compose up -d
 - Log message example : [x] Received '{ item_id: '98', text: '98' }'
 
 ## Screenshot view status.
-<img width="1389" alt="Screenshot 2023-08-01 at 01 29 56" src="https://github.com/trankyhoathanh/rabbitmq/assets/8115919/51a1fd0a-16e7-4977-8aae-42c5ec22dcfe">
+<img width="1389" alt="Tran Ky Hoa Thanh https://tranthanh92.com" src="https://github-production-user-asset-6210df.s3.amazonaws.com/8115919/257315937-67b68927-11d7-4bad-98f4-33e0141d6e25.png">
